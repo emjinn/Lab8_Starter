@@ -1,1 +1,2 @@
 # Lab 8 - Starter
+1. I would fit my automated tests for my project within a GitHub actions that runs whenever code is pushed. This allows me to ensure that the code that is written is always in a working state before it is pushed into production. 
